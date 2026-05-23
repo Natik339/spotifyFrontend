@@ -24,12 +24,6 @@ The project helped me practice and understand how real-world music players work 
 
 ---
 
-## 📸 Screenshots  
-
-*(Add screenshots of your project UI here!)*  
-
----
-
 ## 🎯 What I Learned  
 
 - Handling **DOM manipulation** in JavaScript  
@@ -48,8 +42,3 @@ The project helped me practice and understand how real-world music players work 
 
 ---
 
-## 📂 How to Run  
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/spotify-clone.git
