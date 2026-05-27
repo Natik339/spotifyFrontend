@@ -42,3 +42,6 @@ The project helped me practice and understand how real-world music players work 
 
 ---
 
+## ⚠️ Note
+**This project is best viewed on a laptop/desktop screen. Full responsiveness for all devices has not been completely implemented yet, as this project focuses mainly on basic HTML and CSS concepts and without using backend and js its functionalities are taken care off.
+
